@@ -1,0 +1,19 @@
+{
+  "name": "your-co-engineer-for-this-jet-engine-is-an-infant",
+  "version": "1.0.0",
+  "description": "He hates pizza, and he doesn't know academic Latin. Explain the actual physics so we don't blow up the plane.",
+  "author": {
+    "name": "loerei",
+    "url": "https://github.com/loerei"
+  },
+  "homepage": "https://github.com/loerei/your-co-engineer-for-this-jet-engine-is-an-infant",
+  "repository": "https://github.com/loerei/your-co-engineer-for-this-jet-engine-is-an-infant",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "your-co-engineer-for-this-jet-engine-is-an-infant",
+      "path": "SKILL.md",
+      "description": "Explain technical architecture, design tradeoffs, and complex bugs through first-principles mechanics without jargon or fake analogies."
+    }
+  ]
+}
