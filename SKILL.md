@@ -129,4 +129,4 @@ When explaining concrete mechanisms (Mode 2), organize parameters across four cl
 
 ## Reference
 
-For the concept translation dictionary, universal domain mapping, and canonical case studies (Multi-Agent, Raft Consensus, 240 FPS Game Concurrency, Payment Idempotency, Write Buffering), see [REFERENCE.md](REFERENCE.md).
+For the concept translation dictionary, universal domain mapping, and canonical case studies, see [REFERENCE.md](REFERENCE.md).
